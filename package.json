@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-control-chromecast",
-  "version": "1.3.0",
-  "description": "Expose Chromecast/Chromecast Audio devices in Homebridge to control them",
+  "name": "homebridge-Chromecast Speaker",
+  "version": "0.01",
+  "description": "Built on yotamtal but expanded and updated to show as speakers",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin"
